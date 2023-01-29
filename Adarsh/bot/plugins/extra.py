@@ -17,7 +17,7 @@ async def maintainers(b,m):
     except Exception:
                 await b.send_message(
                     chat_id=m.chat.id,
-                    text="I am Made By [LazyDeveloper](https://t.me/mRiderDM)",
+                    text="I am Made By [Acckerman](https://t.me/Acckerman_offical)",
                     
                     reply_markup=InlineKeyboardMarkup(
                         [
@@ -42,7 +42,7 @@ async def follow_user(b,m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("Subscribe ❤️", url=f"https://youtube.com/@LazyDeveloperr")
+                                InlineKeyboardButton("Subscribe ❤️", url=f"https://t.me/k2m_movies_series")
                             ]
                         ]
                     ),
