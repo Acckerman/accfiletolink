@@ -22,7 +22,7 @@ async def maintainers(b,m):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("Owner💻", url=f"https://t.me/mRiderDM")
+                                InlineKeyboardButton("Owner💻", url=f"https://t.me/Acckerman_offical")
                             ]
                         ]
                     ),
